@@ -142,5 +142,41 @@
       "category": "in-sale",
       "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
       "image": "img-parlante-sony.jpg"
+   },
+   {
+      "id": 17,
+      "name": "Smartwatch Microwear W26 1.75\"",
+      "description": "Para los amantes de la tecnología y la vida saludable, un reloj inteligente es el complemento ideal de todas las actividades diarias.",
+      "price": 6830,
+      "discount": 5,
+      "image": "product-1660927486574.webp",
+      "category": "visited"
+   },
+   {
+      "id": 18,
+      "name": "Mochila Puma",
+      "description": "Mochila Puma modelo Deck Backpack Negra.",
+      "price": 8499,
+      "discount": 0,
+      "image": "product-1660927868837.webp",
+      "category": "visited"
+   },
+   {
+      "id": 19,
+      "name": "Mercedes-Benz Clase B 2.0 Avantgarde 211cv",
+      "description": "Dirección: Asistida.\r\nAire acondicionado.\r\nFrenos ABS.\r\nControl eléctrico para los retrovisores.\r\nAirbag para conductor y pasajero.",
+      "price": 17000000,
+      "discount": 10,
+      "image": "product-1660928565330.webp",
+      "category": "in-sale"
+   },
+   {
+      "id": 20,
+      "name": "Monopatín 4 Ruedas",
+      "description": "Monopatín 4 Ruedas Grafitti Estampado. Con Luces. Reforzado.\r\nAlta elasticidad, antideslizante y resistencia al desgaste, bajo nivel de ruido, rueda más sensible, mayor brillo de LED de colores y más duradera.",
+      "price": 10900,
+      "discount": 5,
+      "image": "product-1660929164286.webp",
+      "category": "in-sale"
    }
 ]

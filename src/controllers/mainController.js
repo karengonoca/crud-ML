@@ -19,7 +19,7 @@ const controller = {
 		// Do the magic
 		//return res.send(req.query)
 		const products = loadProducts();
-		const result =products.filter(product => product.name.toLowerCase().includes(req.query.keywords.toLowerCase()));
+		const result = products.filter(product => product.name.toLowerCase().includes(req.query.keywords.toLowerCase()));
 
 		return res.render('results',{
 			products : result,
